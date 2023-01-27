@@ -1,0 +1,8 @@
+export const messages = {
+  name: 'WORK_SECTION_SUBMIT.NAME',
+  email: 'WORK_SECTION_SUBMIT.EMAIL',
+  message: 'WORK_SECTION_SUBMIT.MESSAGE',
+  send: 'WORK_SECTION_SUBMIT.SEND',
+  sendCopy: 'WORK_SECTION_SUBMIT.SEND_COPY',
+
+};

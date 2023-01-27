@@ -1,0 +1,15 @@
+export const messages = {
+  company: 'COMPANY_PAGE.COMPANY',
+  general: 'COMPANY_PAGE.GENERAL',
+  address: 'COMPANY_PAGE.ADDRESS',
+  bank: 'COMPANY_PAGE.BANK',
+  legalName: 'COMPANY_PAGE.LEGAL_NAME',
+  street: 'ADDRESS.STREET',
+  city: 'ADDRESS.CITY',
+  province: 'ADDRESS.PROVINCE',
+  postalCode: 'ADDRESS.POSTAL_CODE',
+  establishedDate: 'COMPANY_PAGE.ESTABLISHED_DATE',
+  description: 'COMPANY_PAGE.DESCRIPTION',
+  businessType: 'COMPANY_PAGE.BUSINESS_TYPE',
+  save: 'BUTTONS.SAVE',
+};
